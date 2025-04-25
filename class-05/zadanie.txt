@@ -1,0 +1,15 @@
+s29758 s29758
+Twoje hasło to: Bi5r3x4FCh
+
+Utworzyc klienta
+Pierwszy komunikat do serwera to s29758 i haslo: s+" "+" "+haslo+"\n"
+
+1. W jednej linii otrzymasz od serwera 3 liczby o typie int, odeślij jedną linię zawierającą ich konkatenację (sklejenie). Serwer odeśle informację czy Twoja odpowiedź jest poprawna
+
+2. Od serwera otrzymasz 4 liczby o typie int. Każda liczba w osobnej linii. Odeślij jedną linię zawierającą ich konkatenację (sklejenie). Serwer odeśle informację czy Twoja odpowiedź jest poprawna
+
+3. Od serwera otrzymasz 8 dużych liczb, każda liczba w osobnej linii. Po odebraniu wszystkich 8 linii, odeślij 4 linie, w każdej linii sklejone parami (otrzymane wcześniej) liczby, czyli dla ośmiu wysłanychprzykładowych liczb 1,2,3,4,5,6,7,8 serwer powinien otrzymać 4 linie o zawartości odpowiednio 12 34 56 78. Serwer odeśle informację czy Twoja odpowiedź jest poprawna
+
+4. Od serwera dostaniesz 2*K dużych liczb (gdzie K zostanie przesłane pierwszym komunikatem). Każda liczba w osobnej linii. Odsyłąsz serwerowi K linii. Pierwsza linia zawiera konkatenację pierwszej liczby z pierwszej połowy z pierwsza liczbą z drugiej połowy, druga linia zawiera konkatenacje drugiej liczby z pierwszej połowy, z drugą liczbą z drugiej połowy itd... , czyli dla ośmiu przykładowych liczb 1,2,3,4,5,6,7,8 serwer powinien otrzymać 4 linie o zawartości odpowiednio 15 26 37 48. Uwaga: klient ma niezwłocznie odsyłać wyznaczone już wyniki, wpp. nie otrzyma kolejnych liczb. Czyli jak otrzymał już jakąś liczbę z drugiej połowy to konkatenuje i wysyła wynik do serwera, a serwer wysyła kolejną liczbę z drugiej połowy.Serwer odeśle informację czy Twoja odpowiedź jest poprawna
+
+5. Od serwera dostaniesz 2*K dużych liczb, gdzie K nie zostanie nigdy wysłane przez serwer. Jak się domyślić ile liczb zostanie przesłanych do klienta??? Każda liczba w osobnej linii. Odsyłąsz serwerowi K linii. Pierwsza linia zawiera konkatenację pierwszej liczby z pierwszej połowy z pierwsza liczbą z drugiej połowy, druga linia zawiera konkatenacje drugiej liczby z pierwszej połowy, z drugą liczbą z drugiej połowy itd... , czyli dla ośmiu przykładowych liczb 1,2,3,4,5,6,7,8 serwer powinien otrzymać 4 linie o zawartości odpowiednio 15 26 37 48. Uwaga: klient ma niezwłocznie odsyłać wyznaczone  już wyniki, wpp. nie otrzyma kolejnych liczb. Czyli jak otrzymał już jakąś liczbę z drugiej połowy to konkatenuje i wysyła wynik do serwera, a serwer wysyła kolejną liczbę z drugiej połowy.Serwer odeśle informację czy Twoja odpowiedź jest poprawna
